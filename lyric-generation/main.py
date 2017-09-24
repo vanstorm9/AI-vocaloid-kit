@@ -1,7 +1,14 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- 
+
 import support.sylco as sylco
 import support.markovlib as markovlib
 import re
-from string import punctuation
+import string
+#from string import punctuation
+
+txtFilePath = 'text/result.txt'
+
 
 def num_of_words(words):
         r = re.compile(r'[{}]'.format(punctuation))
@@ -32,18 +39,17 @@ print 'Press any key for love song'
 typ = raw_input()
 
 
-file_ = open('text/combined.txt')
+file_ = open(txtFilePath)
 
 
 while True:
         markov = markovlib.Markov(file_)
         text = markov.generate_markov_text()
-        strlen = 0
         sentences = splitParagraphIntoSentences(text)
         for s in sentences:
-                senlen = sylco.sylco(s)
+                #senlen = sylco.sylco(s)
                 print s.strip().capitalize()
-        
+		print ''
 
 	print ''
         print ''
@@ -51,7 +57,7 @@ while True:
         print 'Press any key for love song'
         typ = raw_input()
 
-       	file_ = open('text/combined.txt')
+       	file_ = open(txtFilePath)
 
         print ''
         print ''

@@ -1,5 +1,6 @@
 import convertYTtoMidi.converter as ytc
 import lyricGeneration.lyricGenerator as lg
+import songComposer.matrixGenerate as mg
 import songComposer.train as train
 import songComposer.generate as gen
 
@@ -19,9 +20,8 @@ if not skipYT:
 lg.lyricGenerator(txtPath)
 
 # Use song composer
-###
-# We need to take midi and convert it into numpy matrix first before train
-###
+mg.matrixGenerate()
+
 train.train()
 
 print 'Done'

@@ -2,6 +2,7 @@
 */songs/*
 */bin/*
 ./bin/*
+bin/*
 *.pyc
 *.jams
 *.swp

@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
-from kanji_to_romaji import kanji_to_romaji
-import string
 
-text_file = open('../text/romaji.txt', 'w')
+text_file = open('../text/result.txt', 'w')
+
 
 with open('../text/jap.txt') as f:
    for line in f:
@@ -14,8 +13,8 @@ with open('../text/jap.txt') as f:
        line = line.replace(') ','')
        line = line.replace('(','')
        line = line.replace(')','')
-
-       line = kanji_to_romaji(line) + '.\n'
+	
+       line = line + '.'
 
        text_file.write(line)
 
@@ -23,6 +22,3 @@ with open('../text/jap.txt') as f:
           break
 
 text_file.close()
-
-'''
-'''

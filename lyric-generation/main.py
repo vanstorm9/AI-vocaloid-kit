@@ -7,7 +7,8 @@ import re
 import string
 #from string import punctuation
 
-txtFilePath = 'text/result.txt'
+#txtFilePath = 'text/result.txt'
+txtFilePath = 'text/romaji.txt'
 
 
 def num_of_words(words):

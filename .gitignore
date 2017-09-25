@@ -1,6 +1,7 @@
 */checkpoints/*
 */songs/*
 */bin/*
+./bin/*
 *.pyc
 *.jams
 *.swp

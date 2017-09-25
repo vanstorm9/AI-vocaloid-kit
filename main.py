@@ -20,8 +20,14 @@ if not skipYT:
 lg.lyricGenerator(txtPath)
 
 # Use song composer
+print 'Generating numpy matrix of song'
 mg.matrixGenerate()
 
+print 'Training. . .'
 train.train()
+
+print 'Generating midi file. . .'
+gen.generate()
+
 
 print 'Done'

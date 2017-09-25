@@ -33,7 +33,7 @@ def splitParagraphIntoSentences(paragraph):
     return sentenceList
 
 
-def lyricGenerator(txtPath):
+def lyricGeneratorPlay(txtPath):
 	print 'Press any key for love song'
 	typ = raw_input()
 
@@ -60,3 +60,21 @@ def lyricGenerator(txtPath):
 		print ''
 		print ''
 
+
+def lyricGenerator(txtPath):
+	fw.fileWriter(txtPath)
+
+	txtPath = txtPath + txtFilePath
+	file_ = open(txtPath)
+
+
+	markov = markovlib.Markov(file_)
+	text = markov.generate_markov_text()
+	sentences = splitParagraphIntoSentences(text)
+	for s in sentences:
+		print s.strip().capitalize()
+		print ''
+		
+	## Some code to write to file ##
+
+	

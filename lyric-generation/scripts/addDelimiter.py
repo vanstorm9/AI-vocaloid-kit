@@ -1,9 +1,9 @@
 import string
 
-text_file = open('text/result.txt', 'w')
+text_file = open('../text/result.txt', 'w')
 
 
-with open('text/jap.txt') as f:
+with open('../text/jap.txt') as f:
    for line in f:
 	
        line = line + '!'

@@ -8,7 +8,8 @@ import string
 #from string import punctuation
 
 #txtFilePath = 'text/result.txt'
-txtFilePath = 'text/romaji.txt'
+#txtFilePath = 'text/romaji.txt'
+txtFilePath = 'text/hiragana.txt'
 
 
 def num_of_words(words):
@@ -51,9 +52,6 @@ while True:
                 #senlen = sylco.sylco(s)
                 print s.strip().capitalize()
 		print ''
-
-	print ''
-        print ''
         
         print 'Press any key for love song'
         typ = raw_input()

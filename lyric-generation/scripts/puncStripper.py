@@ -6,6 +6,9 @@ text_file = open('../text/result.txt', 'w')
 
 with open('../text/jap.txt') as f:
    for line in f:
+      
+       if line.isspace():
+		continue
 
        line = line.replace('（','')
        line = line.replace('）','')
@@ -15,6 +18,7 @@ with open('../text/jap.txt') as f:
        line = line.replace(')','')
 	
        line = line + '.'
+
 
        text_file.write(line)
 

@@ -20,9 +20,6 @@ if not skipMidiConversion:
 	print 'Working with ', sys.argv[1]
 	YT_URL = sys.argv[1]
 
-	outputJSON = sys.argv[2]
-
-	print "Outfile: " + sys.argv[2]
 	print os.getcwd()
 
 	'''

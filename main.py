@@ -1,4 +1,4 @@
-import convertYTtomidi.converter as ytc
+import convertYTtoMidi.converter as ytc
 import lyricGeneration.lyricGenerator as lg
 
 import sys

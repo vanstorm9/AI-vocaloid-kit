@@ -50,6 +50,9 @@ def YoutubeToMIDIConvert(url):
 
 	# Insert code here to remove delta time
 
+	#########
+	os.system('cp bin/output.mid ../bin/output.mid')
+
 	####
 	print 'File successfully converted!'
 

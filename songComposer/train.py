@@ -11,10 +11,9 @@ from keras.utils import np_utils
 # load ascii text and convert to lowercase
 seq_length = 200
 
-#read_path = './songComposer/matrices/input/world-is-mine/world-is-mine-0.npy' 
-read_path = './songComposer/matrices/input/deep-sea-girl/deep-sea-girl-0.npy' 
-#read_path = './songComposer/matrices/input/how-to-world-domination/how-to-world-domination-0.npy' 
-#read_path = './songComposer/matrices/input/suteki-da-ne/suteki-da-ne-y-2.npy' 
+#read_path = './songComposer/matrices/input/deep-sea-girl/deep-sea-girl-0.npy' 
+read_path = './songComposer/matrices/input/output/output-0.npy' 
+
 
 
 def train():

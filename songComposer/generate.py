@@ -17,9 +17,7 @@ filename = "./songComposer/saved-results/deep-sea-girl-983-0.0013.hdf5"
 
 seq_length = 300
 
-read_path = './songComposer/matrices/input/deep-sea-girl/deep-sea-girl-0.npy' 
-#read_path = './songComposer/matrices/input/how-to-world-domination/how-to-world-domination-y-0.npy' 
-#read_path = './songComposer/matrices/input/suteki-da-ne/suteki-da-ne-y-2.npy' 
+read_path = './songComposer/matrices/input/output/output-0.npy' 
 
 def generate():
 

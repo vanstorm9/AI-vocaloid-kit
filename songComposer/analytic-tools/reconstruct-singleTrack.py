@@ -12,9 +12,10 @@ import os
 #fp = '../songs/world-is-mine.mid'
 #fp = './sample0.mid'
 #fp = '../songs/Suteki-Da-Ne.mid'
-fp = '../songs/how-to-world-domination.mid'
+#fp = '../songs/how-to-world-domination.mid'
+fp = '../../bin/output.mid'
 
-selectedTrackNum = 1
+selectedTrackNum = 0
 
 #printTracks = True
 printTracks = False

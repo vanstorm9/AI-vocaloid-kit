@@ -6,10 +6,10 @@ import music21
 import matplotlib.pyplot as plt
 from midiutil.MidiFile import MIDIFile
 
-
 import sys,os
 
-skipMidiConversion = False
+skipMidiConversion = True
+#skipMidiConversion = False
 
 outputJSON = None
 
@@ -51,11 +51,12 @@ def YoutubeToMIDIConvert(url):
 	# Insert code here to remove delta time
 
 	#########
-	os.system('cp bin/output.mid ../bin/output.mid')
+	os.system('cp bin/output.mid convertYTtoMidi/bin/output.mid')
+
+	
 
 	####
 	print 'File successfully converted!'
-
 
 
 

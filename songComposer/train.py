@@ -2,21 +2,20 @@
 
 import numpy 
 from keras.models import Sequential
-from keras.layers import Dense
-from keras.layers import Dropout
-from keras.layers import LSTM
+from keras.layers import Dense, Dropout, LSTM
 from keras.callbacks import ModelCheckpoint
 from keras.utils import np_utils
 
 # load ascii text and convert to lowercase
 seq_length = 200
-
+epoch = 500
 #read_path = './songComposer/matrices/input/deep-sea-girl/deep-sea-girl-0.npy' 
 read_path = './songComposer/matrices/input/output/output-0.npy' 
 
 
 
 def train():
+
 	
 	raw_text = numpy.load(read_path)
 
@@ -67,13 +66,11 @@ def train():
 	model.add(Dense(y.shape[1], activation='softmax'))
 	model.compile(loss='categorical_crossentropy', optimizer='adam')
 
-	# There is no test dataset. We are modeling the entire training dataset to learn the probability of each character in a sequence.
-	# We are interested in a generalization of the dataset that minimizes the chosen loss function
-	# We are seeking a balance between generalization of the dataset and overfitting but short of memorization
 
-	# define the check point
-	filepath="../checkpoints/weights-{epoch:02d}-{loss:.4f}.hdf5"
-	checkpoint = ModelCheckpoint(filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
-	callbacks_list = [checkpoint]
+	model.fit(X,y, nb_epoch=epoch, batch_size=64)
 
-	model.fit(X,y, nb_epoch=1000, batch_size=64, callbacks=callbacks_list)
+
+	savePath = './bin/model/model.h5'
+	
+	model.save_weights(savePath)
+	print 'Model saved!'

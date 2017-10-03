@@ -12,8 +12,7 @@ from keras.callbacks import ModelCheckpoint
 from keras.utils import np_utils
 
 
-#filename = "./songComposer/saved-results/weights-999-0.0028-overfit.hdf5"
-filename = "./songComposer/saved-results/deep-sea-girl-983-0.0013.hdf5"
+filename = "./bin/model/model.h5"
 
 seq_length = 300
 
@@ -117,7 +116,7 @@ def generate():
 
 		MyMIDI.addNote(track, channel, pitch, time, duration, volume)
 
-	binfile = open("result.mid", 'wb')
+	binfile = open("./bin/output/result.mid", 'wb')
 	MyMIDI.writeFile(binfile)
 	binfile.close()
 

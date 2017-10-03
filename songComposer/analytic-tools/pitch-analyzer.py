@@ -11,7 +11,8 @@ import os
 #fp = './sample0.mid'
 #fp = '../songs/Suteki-Da-Ne.mid'
 #fp = '../songs/how-to-world-domination.mid'
-fp = './sample0.mid'
+#fp = './sample0.mid'
+fp = '../../bin/output.mid'
 #fp = '../songs/Deep-Sea-Girl.mid'
 #fp = '../songs/cantarella.mid'
 

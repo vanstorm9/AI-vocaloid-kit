@@ -8,6 +8,7 @@ import sys
 
 txtPath = './lyricGeneration/text/'
 skipYT = True
+#skipYT = False
 
 
 if not skipYT:

@@ -33,7 +33,7 @@ def matrixGenerate():
 
 	mainCounter = 0
 	prevPitch = 0
-
+	
 	for tracksNum in range (0, len(mf.tracks)):
 	    # Prints out the number of events in a track
 	    numOfEvents = len(mf.tracks[tracksNum].events)

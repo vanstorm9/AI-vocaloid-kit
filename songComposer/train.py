@@ -8,7 +8,8 @@ from keras.utils import np_utils
 
 # load ascii text and convert to lowercase
 seq_length = 200
-epoch = 500
+#epoch = 500
+epoch = 1000
 #read_path = './songComposer/matrices/input/deep-sea-girl/deep-sea-girl-0.npy' 
 read_path = './songComposer/matrices/input/output/output-0.npy' 
 

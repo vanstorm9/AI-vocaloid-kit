@@ -14,7 +14,7 @@ from keras.utils import np_utils
 
 filename = "./bin/model/model.h5"
 
-seq_length = 300
+seq_length = 20
 
 read_path = './songComposer/matrices/input/output/output-0.npy' 
 

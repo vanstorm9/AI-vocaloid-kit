@@ -5,10 +5,24 @@ import songComposer.train as train
 import songComposer.generate as gen
 
 import sys
+import os
 
 txtPath = './lyricGeneration/text/'
-skipYT = True
-#skipYT = False
+#skipYT = True
+skipYT = False
+
+#checkmark = True
+checkmark = False
+
+epoch = 1000
+
+# bin setup
+
+os.system('rm -r bin')
+os.makedirs('./bin')
+os.makedirs('./bin/model')
+os.makedirs('./bin/output')
+
 
 
 if not skipYT:
@@ -25,7 +39,7 @@ print 'Generating numpy matrix of song'
 mg.matrixGenerate()
 
 print 'Training. . .'
-train.train()
+train.train(epoch, checkmark)
 
 print 'Generating midi file. . .'
 gen.generate()

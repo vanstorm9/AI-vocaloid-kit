@@ -13,7 +13,8 @@ import os
 #fp = './sample0.mid'
 #fp = '../songs/Suteki-Da-Ne.mid'
 #fp = '../songs/how-to-world-domination.mid'
-fp = '../../bin/output.mid'
+#fp = '../../bin/output.mid'
+fp = 'result.mid'
 
 selectedTrackNum = 0
 

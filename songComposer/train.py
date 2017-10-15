@@ -9,13 +9,12 @@ from keras.utils import np_utils
 # load ascii text and convert to lowercase
 seq_length = 200
 #epoch = 500
-epoch = 1000
 #read_path = './songComposer/matrices/input/deep-sea-girl/deep-sea-girl-0.npy' 
 read_path = './songComposer/matrices/input/output/output-0.npy' 
 
 
 
-def train():
+def train(epoch, checkmark):
 
 	
 	raw_text = numpy.load(read_path)
@@ -61,17 +60,31 @@ def train():
 	# define the LSTM model
 	model = Sequential()
 	model.add(LSTM(256, input_shape=(X.shape[1], X.shape[2]), return_sequences=True))
-	model.add(Dropout(0.05))
+	#model.add(Dropout(0.05))
 	model.add(LSTM(256))
-	model.add(Dropout(0.05))
+	#model.add(Dropout(0.05))
 	model.add(Dense(y.shape[1], activation='softmax'))
-	model.compile(loss='categorical_crossentropy', optimizer='adam')
 
 
-	model.fit(X,y, nb_epoch=epoch, batch_size=64)
+
+	if checkmark:
+		print 'Using checkpoint system'
+		filepath = "./checkpoints/weights-improvement-{epoch:02d}-{val_acc:.2f}.hdf5"
+		checkpoint = ModelCheckpoint(filepath, monitor='val_acc', verbose=1, save_best_only=True, mode='max')
+		callbacks_list = [checkpoint]
+		model.compile(loss='mean_squared_error', optimizer='adam', metrics=['accuracy'])
+		
+		model.fit(X,y, nb_epoch=epoch, batch_size=64, callbacks=callbacks_list, verbose=0)
+		print 'Model checkmark saved!'
+
+	else:	
+		print 'Using normal system'
+		model.compile(loss='mean_squared_error', optimizer='adam')
+
+		model.fit(X,y, nb_epoch=epoch, batch_size=64)
 
 
-	savePath = './bin/model/model.h5'
-	
-	model.save_weights(savePath)
-	print 'Model saved!'
+		savePath = './bin/model/model.h5'
+		
+		model.save_weights(savePath)
+		print 'Model saved!'

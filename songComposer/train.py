@@ -14,7 +14,7 @@ read_path = './songComposer/matrices/input/output/output-0.npy'
 
 
 
-def train(epoch, checkmark):
+def train(epochNum, checkmark):
 
 	
 	raw_text = numpy.load(read_path)
@@ -60,28 +60,28 @@ def train(epoch, checkmark):
 	# define the LSTM model
 	model = Sequential()
 	model.add(LSTM(256, input_shape=(X.shape[1], X.shape[2]), return_sequences=True))
-	#model.add(Dropout(0.05))
+	model.add(Dropout(0.2))
 	model.add(LSTM(256))
-	#model.add(Dropout(0.05))
+	model.add(Dropout(0.2))
 	model.add(Dense(y.shape[1], activation='softmax'))
 
 
 
 	if checkmark:
 		print 'Using checkpoint system'
-		filepath = "./checkpoints/weights-improvement-{epoch:02d}-{val_acc:.2f}.hdf5"
+		model.compile(loss='mean_squared_error', optimizer='adam', metrics=['accuracy'])
+		filepath = "./songComposer/checkpoints/weights-improvement-{epoch:02d}-{val_acc:.2f}.hdf5"
 		checkpoint = ModelCheckpoint(filepath, monitor='val_acc', verbose=1, save_best_only=True, mode='max')
 		callbacks_list = [checkpoint]
-		model.compile(loss='mean_squared_error', optimizer='adam', metrics=['accuracy'])
 		
-		model.fit(X,y, nb_epoch=epoch, batch_size=64, callbacks=callbacks_list, verbose=0)
+		model.fit(X,y, validation_split=0.33,epochs=epochNum, batch_size=10, callbacks=callbacks_list, verbose=0)
 		print 'Model checkmark saved!'
 
 	else:	
 		print 'Using normal system'
 		model.compile(loss='mean_squared_error', optimizer='adam')
 
-		model.fit(X,y, nb_epoch=epoch, batch_size=64)
+		model.fit(X,y, epochs=epochNum, batch_size=64)
 
 
 		savePath = './bin/model/model.h5'

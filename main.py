@@ -11,8 +11,8 @@ txtPath = './lyricGeneration/text/'
 #skipYT = True
 skipYT = False
 
-#checkmark = True
-checkmark = False
+checkmark = True
+#checkmark = False
 
 epoch = 1000
 

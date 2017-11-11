@@ -6,22 +6,21 @@ import songComposer.generate as gen
 
 import sys
 import os
+import argparse
+
+# python main.py --checkmark --url (URL)
 
 txtPath = './lyricGeneration/text/'
 #skipYT = True
 skipYT = False
 
-#justTrain = True
 justTrain = False
 
-#justGenerate = True
 justGenerate = False
 
-checkmark = True
-#checkmark = False
+checkmark = False
 
-#epoch = 1000
-epoch = 1
+epoch = 1000
 
 # bin setup
 
@@ -32,11 +31,34 @@ if not justGenerate or not justTrain:
 	os.makedirs('./bin/output')
 
 
+parser = argparse.ArgumentParser()
+parser.add_argument("--checkmark", help="save checkmark models for each optimal loss", action='store_true')
+
+parser.add_argument("--justTrain", help="Skip parsing the Youtube URL and start training", action='store_true')
+
+parser.add_argument("--justGenerate", help="Skip training and generate music with current model", action='store_true')
+
+parser.add_argument("-u", "--url", required=True, help='Youtube video url to extract video audio from')
+
+args = parser.parse_args()
+
+
+url = args.url
+
+if args.checkmark:
+	print('Checkmark mode on')
+	checkmark = True
+
+if args.justTrain:
+	justTrain = True
+
+
+if args.justGenerate:
+	justGenerate = True
 
 if not (skipYT and not justGenerate) and not justTrain:
-	url = sys.argv[1]
-
-	print 'Converting Youtube video to MIDI. . .'
+	
+	print('Converting Youtube video to MIDI. . .')
 	ytc.YoutubeToMIDIConvert(url)
 
 
@@ -46,13 +68,13 @@ lg.lyricGenerator(txtPath)
 if not justGenerate:
 
 	# Use song composer
-	print 'Generating numpy matrix of song'
+	print('Generating numpy matrix of song')
 	mg.matrixGenerate()
 
-	print 'Training. . .'
+	print('Training. . .')
 	train.train(epoch, checkmark)
 
-print 'Generating midi file. . .'
+print('Generating midi file. . .')
 gen.generate()
 
 

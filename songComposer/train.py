@@ -5,6 +5,8 @@ from keras.models import Sequential
 from keras.layers import Dense, Dropout, LSTM
 from keras.callbacks import ModelCheckpoint
 from keras.utils import np_utils
+import os
+import glob
 
 # load ascii text and convert to lowercase
 seq_length = 200
@@ -15,7 +17,7 @@ read_path = './songComposer/matrices/input/output/output-0.npy'
 
 
 def train(epochNum, checkmark):
-
+	global seq_length
 	
 	raw_text = numpy.load(read_path)
 
@@ -27,15 +29,25 @@ def train(epochNum, checkmark):
 	n_chars = len(raw_text)
 	n_vocab = len(chars)
 
-
 	# prepare the dataset of input to output pairs encoded as integers
 	dataX = []
 	dataY = []
 
+
+	seqNum = 0
+
+	if seq_length > n_chars:
+		seqNum = n_chars - (n_chars/2)
+		seq_length = n_chars/2 
+	else:
+		seqNum = n_chars - seq_length		
+		
+
 	# dataX is the encoding version of the sequence
 	# dataY is an encoded version of the next prediction
-	for i in range(0, n_chars - seq_length, 1):
+	for i in range(0, seqNum, 1):
 		seq_in = raw_text[i:i + seq_length]
+
 		seq_out = raw_text[i+seq_length]
 		dataX.append([char_to_int[char] for char in seq_in])
 		dataY.append(char_to_int[seq_out])
@@ -69,17 +81,39 @@ def train(epochNum, checkmark):
 
 	if checkmark:
 		print 'Using checkpoint system'
+
+
+		os.system("rm -r ./songComposer/checkpoints")
+		os.system("mkdir ./songComposer/checkpoints")
+
 		model.compile(loss='mean_squared_error', optimizer='adam', metrics=['accuracy'])
-		filepath = "./songComposer/checkpoints/weights-improvement-{epoch:02d}-{val_acc:.2f}.hdf5"
-		checkpoint = ModelCheckpoint(filepath, monitor='val_acc', verbose=1, save_best_only=True, mode='max')
+		filepath = "./songComposer/checkpoints/weights-improvement-{epoch:02d}-{loss:.4f}.hdf5"
+		checkpoint = ModelCheckpoint(filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
 		callbacks_list = [checkpoint]
 		
-		model.fit(X,y, validation_split=0.33,epochs=epochNum, batch_size=10, callbacks=callbacks_list, verbose=0)
+		model.fit(X,y, epochs=epochNum, batch_size=10, callbacks=callbacks_list, verbose=1)
+
+		pathList = []
+
+		folderPath = './songComposer/checkpoints/'
+		for a_file in sorted(os.listdir(folderPath)):		
+			pathList.append(a_file)
+
+		indexNum = len(pathList) - 1
+		path = pathList[indexNum]
+
+		savePath = './bin/model/model.h5'
+
+		cp_cmd = 'cp ' + folderPath + path +' ' +savePath
+		print cp_cmd
+		os.system(cp_cmd)
+
 		print 'Model checkmark saved!'
+
 
 	else:	
 		print 'Using normal system'
-		model.compile(loss='mean_squared_error', optimizer='adam')
+		model.compile(loss='categorical_crossentropy', optimizer='adam')
 
 		model.fit(X,y, epochs=epochNum, batch_size=64)
 

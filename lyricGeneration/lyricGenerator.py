@@ -84,4 +84,23 @@ def lyricGenerator(txtPath):
 		binFile.write(resSen + '\n')
 
 	binFile.close()
-	
+
+
+def lyricGeneratorCustom(txtPath, outPath):	
+
+	file_ = open(txtPath)
+
+
+	binFile = open(outPath, 'w')	
+
+	markov = markovlib.Markov(file_)
+	text = markov.generate_markov_text()
+	sentences = splitParagraphIntoSentences(text)
+	for s in sentences:
+		resSen =  s.strip().capitalize()
+		print resSen
+		print ''
+
+		binFile.write(resSen + '\n')
+
+	binFile.close()

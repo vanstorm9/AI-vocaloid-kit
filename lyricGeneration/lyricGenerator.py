@@ -15,6 +15,9 @@ import lib.fileWriter as fw
 txtFilePath = 'hiragana.txt'
 
 
+binPath = './bin/lyric/lyric.txt'
+
+
 def num_of_words(words):
         r = re.compile(r'[{}]'.format(punctuation))
         new_words_cont = r.sub(' ',words)
@@ -68,13 +71,17 @@ def lyricGenerator(txtPath):
 	file_ = open(txtPath)
 
 
+	binFile = open(binPath, 'w')	
+
 	markov = markovlib.Markov(file_)
 	text = markov.generate_markov_text()
 	sentences = splitParagraphIntoSentences(text)
 	for s in sentences:
-		print s.strip().capitalize()
+		resSen =  s.strip().capitalize()
+		print resSen
 		print ''
-		
-	## Some code to write to file ##
 
+		binFile.write(resSen + '\n')
+
+	binFile.close()
 	

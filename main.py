@@ -27,6 +27,7 @@ epoch = 1000
 if not justGenerate or not justTrain:
 	os.system('rm -r bin')
 	os.makedirs('./bin')
+	os.makedirs('./bin/lyric')
 	os.makedirs('./bin/model')
 	os.makedirs('./bin/output')
 

@@ -27,12 +27,11 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--checkmark", help="save checkmark models for each optimal loss", action='store_true')
 
 
-parser.add_argument("--skipLyrics", help="Skip parsing the Youtube URL and start training", action='store_true')
+parser.add_argument("--skipLyrics", help="To skip generation of lyrics", action='store_true')
+
+parser.add_argument("--skipTraining", help="Skip training the neural network", action='store_true')
 
 parser.add_argument("--justGenerate", help="Skip training and generate music with current model", action='store_true')
-
-
-#parser.add_argument("--skipYT", help="Skip parsing the Youtube URL and start training", action='store_true')
 
 
 parser.add_argument("--url", help='Youtube video url to extract video audio from')
@@ -55,7 +54,7 @@ if args.justGenerate:
 
 # Renew bin folder
 
-if not justGenerate or not skipLyrics:
+if not justGenerate or not skipLyrics or not justTraining:
 	os.system('rm -r bin')
 	os.makedirs('./bin')
 	os.makedirs('./bin/lyric')
@@ -81,7 +80,7 @@ else:
 
 
 
-if not justGenerate:
+if args.skipTraining:
 	# Use song composer
 	print('Generating numpy matrix of song')
 	mg.matrixGenerate()

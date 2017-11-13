@@ -56,6 +56,11 @@ def train(epochNum, checkmark):
 	n_patterns = len(dataX)
 	print "Total Patterns: ", n_patterns
 
+	if n_patterns <= 0:
+		print('')
+		print('ERROR: Failed to extract midi notes from this song. Please choose another song to extract from')
+		exit()
+
 	# reshape X to be [samples, time steps, features]
 	X = numpy.reshape(dataX, (n_patterns, seq_length,1))
 

@@ -1,4 +1,3 @@
-import convertYTtoMidi.converter as ytc
 import lyricGeneration.lyricGenerator as lg
 import songComposer.matrixGenerate as mg
 import songComposer.train as train
@@ -33,11 +32,16 @@ parser.add_argument("--skipTraining", help="Skip training the neural network", a
 
 parser.add_argument("--justGenerate", help="Skip training and generate music with current model", action='store_true')
 
+parser.add_argument("--epoch", help="Number of epochs for training")
 
 parser.add_argument("--url", help='Youtube video url to extract video audio from')
+parser.add_argument("--midiInput", help="Feed in input midi file path")
 
 args = parser.parse_args()
 
+
+if args.epoch:
+	epoch = int(args.epoch)
 
 if args.checkmark:
 	print('Checkmark mode on')
@@ -66,11 +70,24 @@ if not justGenerate or not skipLyrics or not justTraining:
 # Start getting audio data and training
 
 if args.url:
+	# The import statement is here in order to make the import optional
+
+	import convertYTtoMidi.converter as ytc
+	
+
 	print('Converting Youtube video to MIDI. . .')
 	url = args.url
 	ytc.YoutubeToMIDIConvert(url)
 else:
-	print('Skip Youtube audio extraction')
+	print('Retrieving import midi file. . .')
+	
+	if args.midiInput:
+		cpPath = 'cp ' + args.midiInput + ' ./bin/output.mid' 
+		os.system(cpPath)
+	else:
+		print('')
+		print('You need to choose a Youtube video link using "--url" or choose an input midi file using "--midiInput"')
+		exit()
 
 ## Use lyric generator
 if not skipLyrics:
@@ -80,7 +97,7 @@ else:
 
 
 
-if args.skipTraining:
+if not args.skipTraining:
 	# Use song composer
 	print('Generating numpy matrix of song')
 	mg.matrixGenerate()

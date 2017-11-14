@@ -1,6 +1,6 @@
 # AI-vocaloid-kit
 
-A Python kit that uses an AI to generate vocaloid music. Developers and musicians can now have AI support to aid and inspire ideas for their next vocaloid song.
+A Python kit that uses deep learning to generate vocaloid music. Developers and musicians can now have AI support to aid and inspire ideas for their next vocaloid song.
 
 Takes in Youtube video URL or midi files and use LSTM neural networks in order to study pattern of a song and generate it’s own unique music (in the form of midi file) as well as Markov Models to generate its own accompanying lyrics.
 
@@ -62,11 +62,11 @@ https://github.com/justinsalamon/audio_to_midi_melodia
 
 **Using Youtube video as input:**
 ```
-  python main.py --url [Youtube URL link]
+  	python main.py --url [Youtube URL link]
 ```
 **Example:**
 ```
-  python main.py --url https://www.youtube.com/watch?v=KMHXgUr7gYM 
+  	python main.py --url https://www.youtube.com/watch?v=KMHXgUr7gYM 
 ```
 
 **Using midi file as input**

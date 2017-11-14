@@ -20,17 +20,17 @@ Train and generate its own song in the form of midi file (that can be fed into V
 # **Dependencies:**
 
 
-```
-argparse
-sys
-os
-```
+
+- argparse
+- sys
+- os
+
 
 **Requirements for running Youtube to midi converter**
 
 - Youtube DL:  https://github.com/rg3/youtube-dl
 
-- Music21
+- Music21: http://web.mit.edu/music21/
 
 - midiutil: https://pypi.python.org/pypi/MIDIUtil/
 
@@ -42,9 +42,9 @@ https://github.com/justinsalamon/audio_to_midi_melodia
 
 
 **Requirements for training**
-- Keras
-- Music21
-- midiutil
+- Keras: https://github.com/fchollet/keras
+- Music21: http://web.mit.edu/music21/
+- midiutil: https://pypi.python.org/pypi/MIDIUtil/
 
 
 

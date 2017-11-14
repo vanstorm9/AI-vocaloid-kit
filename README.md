@@ -18,13 +18,8 @@ Train and generate its own song in the form of midi file (that can be fed into V
 
 
 # **Dependencies:**
-
-
-
-- argparse
-- sys
-- os
-
+**General python libraries**
+- Scipy: https://www.scipy.org/install.html
 
 **Requirements for running Youtube to midi converter**
 

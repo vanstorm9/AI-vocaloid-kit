@@ -16,4 +16,4 @@ args = parser.parse_args()
 
 gen.generateCustomPath(args.model, args.output, args.matrix)
 
-print 'Midi file was generated!'
+print('Midi file was generated!')

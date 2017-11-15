@@ -21,6 +21,15 @@ Train and generate its own song in the form of midi file (that can be fed into V
 **General python libraries**
 - Scipy: https://www.scipy.org/install.html
 
+**Note:**
+This program has been tested on Python 2.7 and is currently worked and tested on for being supported for Python 3
+
+If you are having trouble running on Python3, it is recommended you try it with Python2 with commands like these:
+```
+	python2 [python commands]
+	pip2 [package you are trying to install]
+```
+
 **Requirements for running Youtube to midi converter**
 
 - Youtube DL:  https://github.com/rg3/youtube-dl

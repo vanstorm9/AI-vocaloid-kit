@@ -37,7 +37,7 @@ def splitParagraphIntoSentences(paragraph):
 
 
 def lyricGeneratorPlay(txtPath):
-	print 'Press any key for love song'
+	print('Press any key for love song')
 	typ = raw_input()
 
 	fw.fileWriter(txtPath)
@@ -52,16 +52,16 @@ def lyricGeneratorPlay(txtPath):
 		sentences = splitParagraphIntoSentences(text)
 		for s in sentences:
 			#senlen = sylco.sylco(s)
-			print s.strip().capitalize()
-			print ''
+			print(s.strip().capitalize())
+			print('')
 		
-		print 'Press any key for love song'
+		print('Press any key for love song')
 		typ = raw_input()
 
 		file_ = open(txtPath)
 
-		print ''
-		print ''
+		print('')
+		print('')
 
 
 def lyricGenerator(txtPath):
@@ -78,8 +78,8 @@ def lyricGenerator(txtPath):
 	sentences = splitParagraphIntoSentences(text)
 	for s in sentences:
 		resSen =  s.strip().capitalize()
-		print resSen
-		print ''
+		print(resSen)
+		print('')
 
 		binFile.write(resSen + '\n')
 
@@ -98,8 +98,8 @@ def lyricGeneratorCustom(txtPath, outPath):
 	sentences = splitParagraphIntoSentences(text)
 	for s in sentences:
 		resSen =  s.strip().capitalize()
-		print resSen
-		print ''
+		print(resSen)
+		print('')
 
 		binFile.write(resSen + '\n')
 

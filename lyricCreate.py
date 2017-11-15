@@ -15,4 +15,4 @@ args = parser.parse_args()
 
 lg.lyricGeneratorCustom(args.data, args.output)
 
-print 'Lyric text file was generated!'
+print('Lyric text file was generated!')

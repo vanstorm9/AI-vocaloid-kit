@@ -6,7 +6,7 @@ import support.markovlib as markovlib
 
 import re
 import string
-import lib.fileWriter as fw
+import lyricLib.fileWriter as fw
 
 #from string import punctuation
 

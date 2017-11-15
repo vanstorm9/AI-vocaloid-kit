@@ -22,9 +22,9 @@ Train and generate its own song in the form of midi file (that can be fed into V
 - Scipy: https://www.scipy.org/install.html
 
 **Note:**
-This program has been tested on Python 2.7 and is currently worked and tested on for being supported for Python 3
+This program has been worked on and tested in Python 2.7 and probably works in Python 3 as well.
 
-If you are having trouble running on Python3, it is recommended you try it with Python2 with commands like these:
+However, if you are having trouble running on Python 3, it is recommended you try it with Python 2 with commands like these:
 ```
 	python2 [python commands]
 	pip2 [package you are trying to install]

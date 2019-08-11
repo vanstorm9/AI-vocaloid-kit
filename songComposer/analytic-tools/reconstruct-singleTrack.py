@@ -14,9 +14,10 @@ import os
 #fp = '../songs/Suteki-Da-Ne.mid'
 #fp = '../songs/how-to-world-domination.mid'
 #fp = '../../bin/output.mid'
-fp = 'result.mid'
+#fp = 'result.mid'
+fp = '../training/world-is-mine.mid'
 
-selectedTrackNum = 0
+selectedTrackNum = 1
 
 #printTracks = True
 printTracks = False
@@ -60,68 +61,68 @@ count = 0
 # Begin reconstruction of the track
 for eventInd in range(0,numOfEvents):
 
-	event = mf.tracks[tracksNum].events[eventInd]
-	eventType = event.type
+        event = mf.tracks[tracksNum].events[eventInd]
+        eventType = event.type
 
-	me = midi.MidiEvent(mt)		
-	me.type = eventType
-
-
-	# event
-	event = mf.tracks[tracksNum].events[eventInd]
-	eventType = event.type
-
-	if printTracks:
-		print event
-
-	pitch = event.pitch
-	velocity = event.velocity
-	channel = event.channel
-	time = event.time
-	volume = event.velocity
+        me = midi.MidiEvent(mt)         
+        me.type = eventType
 
 
-	if deltaTimeOn:
-		# determine the duration using DeltaTime
-		# First checking if we are at last note o track
-		if numOfEvents > eventInd + 1:
+        # event
+        event = mf.tracks[tracksNum].events[eventInd]
+        eventType = event.type
 
-		    # Now we get DeltaTime from the next MidiEvent and use that as duration
-		    nextStepType = mf.tracks[tracksNum].events[eventInd + 1]
-		    if nextStepType.type == 'DeltaTime':
-			duration = nextStepType.time/100		
+        if printTracks:
+                print(event)
+
+        pitch = event.pitch
+        velocity = event.velocity
+        channel = event.channel
+        time = event.time
+        volume = event.velocity
 
 
+        if deltaTimeOn:
+                # determine the duration using DeltaTime
+                # First checking if we are at last note o track
+                if numOfEvents > eventInd + 1:
 
-	if time is not None:
-	    time = event.time
-	else:
-	    time = count
+                    # Now we get DeltaTime from the next MidiEvent and use that as duration
+                    nextStepType = mf.tracks[tracksNum].events[eventInd + 1]
+                    if nextStepType.type == 'DeltaTime':
+                        duration = nextStepType.time/100                
 
 
 
-	if eventType == 'NOTE_ON':
+        if time is not None:
+            time = event.time
+        else:
+            time = count
 
 
-	    MyMIDI.addNote(0, channel, pitch, time, duration, volume)
 
-	# Controls instruments	
-	if programChangeOn:		
-		if eventType == 'PROGRAM_CHANGE':
-		    MyMIDI.addProgramChange(0, channel, time, event.data)
-	
-		
-	if eventType == 'CONTROLLER_CHANGE':
-	    MyMIDI.addControllerEvent(0, channel, time, event._parameter2, event._parameter1)
-	
+        if eventType == 'NOTE_ON':
 
-	prevPitch = event.pitch
 
-	count = count + 1
+            MyMIDI.addNote(0, channel, pitch, time, duration, volume)
+
+        # Controls instruments  
+        if programChangeOn:             
+                if eventType == 'PROGRAM_CHANGE':
+                    MyMIDI.addProgramChange(0, channel, time, event.data)
+        
+                
+        if eventType == 'CONTROLLER_CHANGE':
+            MyMIDI.addControllerEvent(0, channel, time, event.parameter2, event.parameter1)
+        
+
+        prevPitch = event.pitch
+
+        count = count + 1
 
 
 # Writing reconstructed track
-print 'Went through Track ', selectedTrackNum
+print('Went through Track ', selectedTrackNum)
 
 binfile = open("result.mid", 'wb')
 MyMIDI.writeFile(binfile)

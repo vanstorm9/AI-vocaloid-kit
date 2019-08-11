@@ -14,7 +14,9 @@ import os
 #fp = './sample0.mid'
 #fp = '../../bin/output.mid'
 #fp = '../../bin/result.mid'
-fp = './result.mid'
+#fp = '../training/world-is-mine.mid'
+fp = './resultTwolib.mid'
+#fp = './result.mid'
 #fp = '../songs/Deep-Sea-Girl.mid'
 #fp = '../songs/cantarella.mid'
 
@@ -32,18 +34,18 @@ mf.close()
 x = []
 y = []
 
-print 'Total of ', len(mf.tracks), ' tracks'
+print('Total of ', len(mf.tracks), ' tracks')
 
 
 for tracksNum in range (0, len(mf.tracks)):
     # Prints out the number of events in a track
     numOfEvents = len(mf.tracks[tracksNum].events)
-    print 'Track ', tracksNum
-    print 'Number of Events: ', numOfEvents
+    print('Track ', tracksNum)
+    print('Number of Events: ', numOfEvents)
 
 	
     if printTrackInfo:
-        print mf.tracks
+        print(mf.tracks)
     
     count = 0
     prevPitch = -1

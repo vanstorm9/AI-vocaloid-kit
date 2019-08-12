@@ -12,7 +12,9 @@ import os
 #fp = '../songs/how-to-world-domination.mid'
 #fp = '../songs/Deep-Sea-Girl.mid'
 #fp = '../training/world-is-mine.mid'
-fp = '../training/world-is-mine-single.mid'
+#fp = '../training/world-is-mine-single.mid'
+#fp = '../training/deep-sea-girl.mid'
+fp = '../training/world-domination.mid'
 #fp = '../training/world-is-mine-multi.mid'
 #fp = '../songs/cantarella.mid'
 
@@ -112,11 +114,12 @@ for tracksNum in range (0, len(mf.tracks)):
 
                 if eventType == 'DeltaTime':
                     count += int(mf.tracks[tracksNum].events[eventInd].time)/200
+                    #count += int(mf.tracks[tracksNum].events[eventInd].time)/100
+
                 time = count
                 
 
                 if eventType == 'NOTE_ON':
-
 
                     MyMIDI.addNote(track=tracksNum, channel=channel, pitch=pitch, time=time, duration=duration, volume=volume)
                     saveStr = 'track: ' + str(tracksNum) + '  channel: ' + str(channel) + '  pitch: ' + str(pitch) + '  duration: ' + str(duration)  + '  time: ' + str(time) + '\n'

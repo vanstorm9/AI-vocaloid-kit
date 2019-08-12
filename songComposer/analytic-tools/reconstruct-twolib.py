@@ -11,7 +11,9 @@ import os
 #fp = '../songs/Suteki-Da-Ne.mid'
 #fp = '../songs/how-to-world-domination.mid'
 #fp = '../songs/Deep-Sea-Girl.mid'
-fp = '../training/world-is-mine.mid'
+#fp = '../training/world-is-mine.mid'
+fp = '../training/world-is-mine-single.mid'
+#fp = '../training/world-is-mine-multi.mid'
 #fp = '../songs/cantarella.mid'
 
 #printTracks = True
@@ -49,8 +51,11 @@ mt = midi.MidiTrack(len(mf.tracks))
 
 
 for tracksNum in range (0, len(mf.tracks)):
-    
         print('Track ', tracksNum)
+
+        f = open("notes/notes"+str(tracksNum)+".txt", "w")    
+  
+
 
         count = 0
         time = count
@@ -98,18 +103,25 @@ for tracksNum in range (0, len(mf.tracks)):
                                 duration = nextStepType.time/100                
 
 
-
+                '''
                 if time is not None:
                     time = event.time
                 else:
                     time = count
-                
+                '''
 
+                if eventType == 'DeltaTime':
+                    count += int(mf.tracks[tracksNum].events[eventInd].time)/200
+                time = count
+                
 
                 if eventType == 'NOTE_ON':
 
 
                     MyMIDI.addNote(track=tracksNum, channel=channel, pitch=pitch, time=time, duration=duration, volume=volume)
+                    saveStr = 'track: ' + str(tracksNum) + '  channel: ' + str(channel) + '  pitch: ' + str(pitch) + '  duration: ' + str(duration)  + '  time: ' + str(time) + '\n'
+                    f.write(saveStr)
+
 
                 # Controls instruments  
                 if programChangeOn:             
@@ -123,8 +135,8 @@ for tracksNum in range (0, len(mf.tracks)):
 
                 #prevPitch = event.pitch
 
-                count = count + 1
-        
+                #count = count + 1
+        f.close()
 
 # Writing reconstructed track
 print('Went through ', len(mf.tracks), ' tracks')

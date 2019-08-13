@@ -13,8 +13,8 @@ import os
 #fp = '../songs/Deep-Sea-Girl.mid'
 #fp = '../training/world-is-mine.mid'
 #fp = '../training/world-is-mine-single.mid'
-#fp = '../training/deep-sea-girl.mid'
-fp = '../training/world-domination.mid'
+fp = '../training/deep-sea-girl.mid'
+#fp = '../training/world-domination.mid'
 #fp = '../training/world-is-mine-multi.mid'
 #fp = '../songs/cantarella.mid'
 

@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*- 
 
 #import support.sylco as sylco
-import support.markovlib as markovlib
+import lyricGeneration.support.markovlib as markovlib
 
 import re
 import string
-import lyricLib.fileWriter as fw
+import lyricGeneration.lyricLib.fileWriter as fw
 
 #from string import punctuation
 

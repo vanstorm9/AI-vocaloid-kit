@@ -45,7 +45,8 @@ def train(epochNum, checkmark):
 
 	# dataX is the encoding version of the sequence
 	# dataY is an encoded version of the next prediction
-	for i in range(0, seqNum, 1):
+	#for i in range(0, seqNum, 1):
+	for i in range(0, int(seqNum)):
 		seq_in = raw_text[i:i + seq_length]
 
 		seq_out = raw_text[i+seq_length]
@@ -54,7 +55,7 @@ def train(epochNum, checkmark):
 
 		
 	n_patterns = len(dataX)
-	print "Total Patterns: ", n_patterns
+	print("Total Patterns: ", n_patterns)
 
 	if n_patterns <= 0:
 		print('')
@@ -70,8 +71,8 @@ def train(epochNum, checkmark):
 	# one hot encode the output variable
 	y = np_utils.to_categorical(dataY)
 
-	print 'X: ', X.shape
-	print 'Y: ', y.shape
+	print('X: ', X.shape)
+	print('Y: ', y.shape)
 
 
 	# define the LSTM model
@@ -85,7 +86,7 @@ def train(epochNum, checkmark):
 
 
 	if checkmark:
-		print 'Using checkpoint system'
+		print('Using checkpoint system')
 
 
 		os.system("rm -r ./songComposer/checkpoints")
@@ -110,14 +111,14 @@ def train(epochNum, checkmark):
 		savePath = './bin/model/model.h5'
 
 		cp_cmd = 'cp ' + folderPath + path +' ' +savePath
-		print cp_cmd
+		print(cp_cmd)
 		os.system(cp_cmd)
 
-		print 'Model checkmark saved!'
+		print('Model checkmark saved!')
 
 
 	else:	
-		print 'Using normal system'
+		print('Using normal system')
 		model.compile(loss='categorical_crossentropy', optimizer='adam')
 
 		model.fit(X,y, epochs=epochNum, batch_size=64)
@@ -126,4 +127,4 @@ def train(epochNum, checkmark):
 		savePath = './bin/model/model.h5'
 		
 		model.save_weights(savePath)
-		print 'Model saved!'
+		print('Model saved!')

@@ -22,46 +22,55 @@ name = "output"
 #name = "deep-sea-girl"
 
 def matrixGenerate():
-	mf = music21.midi.MidiFile()
-	mf.open(fp)
-	mf.read()
-	mf.close()
+        mf = music21.midi.MidiFile()
+        mf.open(fp)
+        mf.read()
+        mf.close()
 
 
-	x = []
-	y = []
+        x = []
+        y = []
 
-	mainCounter = 0
-	prevPitch = 0
-	
-	for tracksNum in range (0, len(mf.tracks)):
-	    # Prints out the number of events in a track
-	    numOfEvents = len(mf.tracks[tracksNum].events)
-	    print numOfEvents
-	    
-	    count = 0
-	    for eventInd in range(0,numOfEvents):
-		
-		# Tracks
-		event = mf.tracks[tracksNum].events[eventInd]
-		eventType = event.type
+        mainCounter = 0
+        prevPitch = 0
+        
+        for tracksNum in range (0, len(mf.tracks)):
+            # Prints out the number of events in a track
+            numOfEvents = len(mf.tracks[tracksNum].events)
+            print(numOfEvents)
+            
+            count = 0
+            for eventInd in range(0,numOfEvents):
+                
+                # Tracks
+                event = mf.tracks[tracksNum].events[eventInd]
+                eventType = event.type
 
-		if eventType == 'NOTE_ON':
-		    #print track
-		    if prevPitch != event.pitch:
-			y.append(event.pitch)
-			count = count + 1
-	      
-	    save_path = matrix_path + name + slash 
-	    y_set =  name + '-' + str(mainCounter) + '.npy'
-	    print save_path, y_set 
-	    np.save(save_path + y_set , y)
-	 
 
-	    x = []
-	    y = []
-		    
-	    mainCounter = mainCounter + 1
-		
-	    
+                if eventType == 'DeltaTime':
+                    deltaTime = int(mf.tracks[tracksNum].events[eventInd].time/200)
+                    channel = 1
+                    duration = 1
+                    for i in range(0,int(deltaTime/3)):
+                        y.append(0)
+                        count += 1
+
+                if eventType == 'NOTE_ON':
+                    #print track
+                    if prevPitch != event.pitch:
+                        y.append(event.pitch)
+                        count = count + 1
+                      
+            save_path = matrix_path + name + slash 
+            y_set =  name + '-' + str(mainCounter) + '.npy'
+            print(save_path, y_set)
+            np.save(save_path + y_set , y)
+                 
+
+            x = []
+            y = []
+                            
+            mainCounter = mainCounter + 1
+                        
+            
 

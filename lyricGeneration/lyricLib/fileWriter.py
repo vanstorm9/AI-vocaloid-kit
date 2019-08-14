@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
 import sys
-reload(sys)
-sys.setdefaultencoding('utf-8')
+from importlib import reload
 
 from kanji_to_romaji import kanji_to_romaji
 import romkan
@@ -26,51 +25,51 @@ def only_roman_chars(unistr):
 def fileWriter(rootPath):
 
 
-	tf_str = rootPath + 'romaji.txt'
-	result_str = rootPath + 'result.txt'
-	t_hira_str = rootPath + 'hiragana.txt'
-	sf_str = rootPath + 'jap.txt'
+        tf_str = rootPath + 'romaji.txt'
+        result_str = rootPath + 'result.txt'
+        t_hira_str = rootPath + 'hiragana.txt'
+        sf_str = rootPath + 'jap.txt'
 
 
-	text_file = open(tf_str, 'w')
-	result_file = open(result_str, 'w')
-	text_fileHira = open(t_hira_str, 'w')
-	sourceFile = open(sf_str)
+        text_file = open(tf_str, 'w')
+        result_file = open(result_str, 'w')
+        text_fileHira = open(t_hira_str, 'w')
+        sourceFile = open(sf_str)
 
 
-	with sourceFile as f:
-		for line in f:
-			if line.isspace():
-				continue
+        with sourceFile as f:
+                for line in f:
+                        if line.isspace():
+                                continue
 
 
-		       	line = line.replace('（','')
-		       	line = line.replace('）','')
-		       	line = line.replace(' (','')
-		       	line = line.replace(') ','')
-		       	line = line.replace('(','')
-		       	line = line.replace(')','')
+                        line = line.replace('（','')
+                        line = line.replace('）','')
+                        line = line.replace(' (','')
+                        line = line.replace(') ','')
+                        line = line.replace('(','')
+                        line = line.replace(')','')
 
-		       	result_file.write(line)
+                        result_file.write(line)
 
-		       	if only_roman_chars(line.decode('utf-8')):
-				text_file.write(line)
-				text_fileHira.write(line)
-				continue
-
-
-		       	line = kanji_to_romaji(line) + '.\n'
-		       	lineHira = romkan.to_hiragana(line).decode('utf-8')
-
-		       	text_file.write(line)
+                        if only_roman_chars(line):
+                                text_file.write(line)
+                                text_fileHira.write(line)
+                                continue
 
 
-		       	text_fileHira.write(lineHira)
+                        line = kanji_to_romaji(line) + '.\n'
+                        lineHira = romkan.to_hiragana(line)
 
-		       	if 'str' in line:
-				break
+                        text_file.write(line)
 
-	text_file.close()
-	text_fileHira.close()
-	result_file.close()
+
+                        text_fileHira.write(lineHira)
+
+                        if 'str' in line:
+                                break
+
+        text_file.close()
+        text_fileHira.close()
+        result_file.close()
 

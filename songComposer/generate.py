@@ -14,7 +14,7 @@ from keras.utils import np_utils
 
 filename = "./bin/model/model.h5"
 
-seq_length = 20
+seq_length = 60
 
 read_path = './songComposer/matrices/input/output/output-0.npy' 
 
@@ -159,10 +159,13 @@ def generateCustomPath(modelPath, saveMidiPath, matrixPath):
 	# define the LSTM model
 	model = Sequential()
 	model.add(LSTM(256, input_shape=(X.shape[1], X.shape[2]), return_sequences=True))
-	#model.add(Dropout(0.2))
+	model.add(LSTM(256, return_sequences=True))
+	model.add(LSTM(256, return_sequences=True))
+	model.add(LSTM(256, return_sequences=True))
+	model.add(LSTM(256, return_sequences=True))
 	model.add(LSTM(256))
-	#model.add(Dropout(0.2))
-	model.add(Dense(y.shape[1], activation= 'softmax' ))
+	model.add(Dropout(0.2))
+	model.add(Dense(y.shape[1], activation='softmax'))
 
 	# load the network weights
 

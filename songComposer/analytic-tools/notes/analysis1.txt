@@ -1,0 +1,2981 @@
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=57, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=57, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=57, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=57, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=57, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=67, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=57, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=67, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=76, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=57, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=57, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=67, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=57, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=67, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=76, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=76, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=76, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=70, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=76, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=57, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=70, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=59, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=67, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=62, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=74, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=76, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=68, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=76, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=68, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=68, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=61, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=69, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=68, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=68, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=68, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=76, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=68, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=68, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=64, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=68, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=76, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=78, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=68, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=66, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=68, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=68, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=68, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=76, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=71, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=73, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=75, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=960, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>
+<MidiEvent NOTE_ON, t=None, track=1, channel=1, pitch=0, velocity=100>
+<MidiEvent DeltaTime, t=5760, track=1, channel=None>
+<MidiEvent DeltaTime, t=0, track=1, channel=None>

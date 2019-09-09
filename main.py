@@ -1,4 +1,3 @@
-import lyricGeneration.lyricGenerator as lg
 import songComposer.matrixGenerate as mg
 import songComposer.train as train
 import songComposer.generate as gen
@@ -11,7 +10,8 @@ import argparse
 
 txtPath = './lyricGeneration/text/'
 
-skipLyrics = False
+#skipLyrics = False
+skipLyrics = True
 
 justGenerate = False
 
@@ -50,7 +50,9 @@ if args.checkmark:
 
 if args.skipLyrics:
 	skipLyrics = True
+else:
 
+	import lyricGeneration.lyricGenerator as lg
 
 if args.justGenerate:
 	justGenerate = True

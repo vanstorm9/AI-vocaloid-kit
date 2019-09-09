@@ -51,7 +51,7 @@ def matrixGenerate():
                     deltaTime = int(mf.tracks[tracksNum].events[eventInd].time/200)
                     channel = 1
                     duration = 1
-                    for i in range(0,int(deltaTime/3)):
+                    for i in range(0,int(deltaTime/4)):
                         y.append(0)
                         count += 1
 

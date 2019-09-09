@@ -61,7 +61,7 @@ def generate():
 	model.add(LSTM(256, return_sequences=True))
 	model.add(LSTM(256, return_sequences=True))
 	model.add(LSTM(256))
-	model.add(Dropout(0.2))
+	#model.add(Dropout(0.2))
 	model.add(Dense(y.shape[1], activation='softmax'))
 
 	# load the network weights
@@ -167,7 +167,7 @@ def generateCustomPath(modelPath, saveMidiPath, matrixPath):
 	model.add(LSTM(256, return_sequences=True))
 	model.add(LSTM(256, return_sequences=True))
 	model.add(LSTM(256))
-	model.add(Dropout(0.2))
+	#model.add(Dropout(0.2))
 	model.add(Dense(y.shape[1], activation='softmax'))
 
 	# load the network weights

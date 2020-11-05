@@ -1,5 +1,10 @@
-# AI-vocaloid-kit
+# **THIS REPOSITORY IS DEPRECIATED**
 
+This is a old version of the AI Vocaloid Kit. The repository of the new version is located here:
+
+https://github.com/vanstorm9/AI-Vocaloid-Kit-V2
+
+# AI-vocaloid-kit
 A Python kit that uses deep learning to generate vocaloid music. Developers and musicians can now have AI support to aid and inspire ideas for their next vocaloid song.
 
 Takes in Youtube video URL or midi files and use LSTM neural networks in order to study pattern of a song and generate it’s own unique music (in the form of midi file) as well as Markov Models to generate its own accompanying lyrics.
@@ -11,8 +16,6 @@ Retrieving Youtube videos to use as input for LSTM neural network
 Use midi files as input for LSTM neural network
 Generate lyrics based on single file text file (serves as input data)
 Train and generate its own song in the form of midi file (that can be fed into Vocaloid software)
-
-
 
 
 
